@@ -11,4 +11,7 @@
    -  Kiểm tra thông tin bán hàng của các đơn hàng
 4. Các chức năng đã làm được
    - Sửa ,xóa vé
-   - Sửa , xóa phim 
+   - Sửa , xóa phim
+   - Đã thiết kế được phần khung giao diện
+   - Đã viết xong các thư viện dll cần thiết
+   - Xây dựng các producation phù hợp
